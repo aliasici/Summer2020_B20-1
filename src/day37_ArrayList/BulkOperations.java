@@ -81,7 +81,8 @@ public class BulkOperations {
         num1.retainAll( Arrays.asList(1,2,3,9)  );
 
         System.out.println(num1);
-
+        
+        // hello
 
 
     }
